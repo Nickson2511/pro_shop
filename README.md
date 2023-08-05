@@ -3,3 +3,4 @@
 #installation i.e every packages
 #use create React App Technology
 #updating everything and setting my development environment neat.
+#Technology used is Mern-Stack
